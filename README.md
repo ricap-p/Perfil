@@ -1,16 +1,35 @@
-## Hi there 👋
+## Ricardo Prudencio
+<ui><li>Desenvolvedor em formação | HTML | CSS | JavaScript | React | GIt. </li>
+<li>Em transição de carreira para tecnologia.</li>
+<li>Objetivo: evoluir como desenvolvedor e me tornar Full Stack.</li></ui>
 
-<!--
-**ricap-p/ricap-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tecnologias em aprendizado
 
-Here are some ideas to get you started:
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+## Projetos
+
+Projetos desenvolvidos para estudo e prática em desenvolvimento web.
+
+
+---
+
+## Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ricap-p&show_icons=true&theme=github_dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricap-p&layout=compact&theme=github_dark)
+
+---
+
+## Contato
+
+LinkedIn  
+<p>
+<a href="https://www.linkedin.com/in/ricardo-passos-prudencio-974551148">
+ <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/ff8ee4e0-d64e-400a-81fe-7f3d6b7a31b6" />
+ </a></p>
