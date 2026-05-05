@@ -19,9 +19,7 @@ Projetos desenvolvidos para estudo e prática em desenvolvimento web.
 
 ---
 
-## Estatísticas
 
-![Estatísticas](https://github-readme-streak-stats.herokuapp.com/?user=ricap-p&theme=tokyonight&locale=pt-br)
 ---
 
 ## Contato
